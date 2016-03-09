@@ -1,0 +1,17 @@
+{
+    "name": "draganddrop.liu-xiao-guo",
+    "description": "description of draganddrop",
+    "architecture": "all",
+    "title": "draganddrop",
+    "hooks": {
+        "draganddrop": {
+            "apparmor": "draganddrop.apparmor",
+            "desktop":  "draganddrop.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

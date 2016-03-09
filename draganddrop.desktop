@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=draganddrop
+Exec=qmlscene $@ Main.qml
+Icon=draganddrop.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
